@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Infrastructure \/ Facilities",
+        "active": true,
+        "created_at": "2026-10-31T18:21:34+08:00"
+    },
+    {
+        "id": 2,
+        "name": "Customer Service",
+        "active": true,
+        "created_at": "2026-10-31T18:21:34+08:00"
+    },
+    {
+        "id": 3,
+        "name": "Staff Conduct",
+        "active": true,
+        "created_at": "2026-10-31T18:21:34+08:00"
+    },
+    {
+        "id": 4,
+        "name": "Safety and Security",
+        "active": true,
+        "created_at": "2026-10-31T18:21:34+08:00"
+    },
+    {
+        "id": 5,
+        "name": "Maintenance",
+        "active": true,
+        "created_at": "2026-10-31T18:21:34+08:00"
+    },
+    {
+        "id": 6,
+        "name": "Technical Issues",
+        "active": true,
+        "created_at": "2026-10-31T18:21:34+08:00"
+    },
+    {
+        "id": 7,
+        "name": "Other Concerns",
+        "active": true,
+        "created_at": "2026-10-31T18:21:34+08:00"
+    }
+]

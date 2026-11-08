@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged in",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:22:10+08:00"
+    },
+    {
+        "id": 2,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged out",
+        "related_id": null,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:23:34+08:00"
+    },
+    {
+        "id": 3,
+        "user_id": 2,
+        "user_name": "Sample Staff (staff)",
+        "action": "Logged in",
+        "related_id": 2,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:23:53+08:00"
+    },
+    {
+        "id": 4,
+        "user_id": 2,
+        "user_name": "Sample Staff (staff)",
+        "action": "Logged out",
+        "related_id": null,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:24:15+08:00"
+    },
+    {
+        "id": 5,
+        "user_id": 3,
+        "user_name": "Sample User (user)",
+        "action": "Logged in",
+        "related_id": 3,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:24:30+08:00"
+    },
+    {
+        "id": 6,
+        "user_id": 3,
+        "user_name": "Sample User (user)",
+        "action": "Submitted complaint CMP-2026-00001",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:25:40+08:00"
+    },
+    {
+        "id": 7,
+        "user_id": 3,
+        "user_name": "Sample User (user)",
+        "action": "Logged out",
+        "related_id": null,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:26:36+08:00"
+    },
+    {
+        "id": 8,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged in",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:26:54+08:00"
+    },
+    {
+        "id": 9,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Status of CMP-2026-00001: Submitted -> Under Review",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:27:58+08:00"
+    },
+    {
+        "id": 10,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Status of CMP-2026-00001: Under Review -> Assigned",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:27:58+08:00"
+    },
+    {
+        "id": 11,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Assigned CMP-2026-00001 to Sample Staff",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:27:58+08:00"
+    },
+    {
+        "id": 12,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Added public note to CMP-2026-00001",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:28:32+08:00"
+    },
+    {
+        "id": 13,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged out",
+        "related_id": null,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:30:30+08:00"
+    },
+    {
+        "id": 14,
+        "user_id": 2,
+        "user_name": "Sample Staff (staff)",
+        "action": "Logged in",
+        "related_id": 2,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:30:41+08:00"
+    },
+    {
+        "id": 15,
+        "user_id": 2,
+        "user_name": "Sample Staff (staff)",
+        "action": "Status of CMP-2026-00001: Assigned -> In Progress",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:31:30+08:00"
+    },
+    {
+        "id": 16,
+        "user_id": 2,
+        "user_name": "Sample Staff (staff)",
+        "action": "Added internal note to CMP-2026-00001",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:32:03+08:00"
+    },
+    {
+        "id": 17,
+        "user_id": 2,
+        "user_name": "Sample Staff (staff)",
+        "action": "Status of CMP-2026-00001: In Progress -> Resolved",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:32:31+08:00"
+    },
+    {
+        "id": 18,
+        "user_id": 2,
+        "user_name": "Sample Staff (staff)",
+        "action": "Logged out",
+        "related_id": null,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:33:00+08:00"
+    },
+    {
+        "id": 19,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged in",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:33:12+08:00"
+    },
+    {
+        "id": 20,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged out",
+        "related_id": null,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:34:14+08:00"
+    },
+    {
+        "id": 21,
+        "user_id": 3,
+        "user_name": "Sample User (user)",
+        "action": "Logged in",
+        "related_id": 3,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:34:26+08:00"
+    },
+    {
+        "id": 22,
+        "user_id": 3,
+        "user_name": "Sample User (user)",
+        "action": "Logged out",
+        "related_id": null,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:34:51+08:00"
+    },
+    {
+        "id": 23,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged in",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:35:05+08:00"
+    },
+    {
+        "id": 24,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Status of CMP-2026-00001: Resolved -> Closed",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:35:13+08:00"
+    },
+    {
+        "id": 25,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Approved resolution of CMP-2026-00001",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:35:13+08:00"
+    },
+    {
+        "id": 26,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged in",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-10-31T18:39:21+08:00"
+    },
+    {
+        "id": 27,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged in",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-11-08T22:33:14+08:00"
+    },
+    {
+        "id": 28,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged out",
+        "related_id": null,
+        "ip": "::1",
+        "created_at": "2026-11-08T22:37:04+08:00"
+    },
+    {
+        "id": 29,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged in",
+        "related_id": 1,
+        "ip": "::1",
+        "created_at": "2026-11-08T22:37:21+08:00"
+    },
+    {
+        "id": 30,
+        "user_id": 1,
+        "user_name": "System Administrator (admin)",
+        "action": "Logged out",
+        "related_id": null,
+        "ip": "::1",
+        "created_at": "2026-11-08T22:42:38+08:00"
+    }
+]

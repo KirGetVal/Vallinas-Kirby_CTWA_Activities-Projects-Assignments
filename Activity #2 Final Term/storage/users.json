@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "System Administrator",
+        "email": "admin@cms.local",
+        "password": "$2y$10$yW1d5bNpc2wecm0kqwVzX.3yiGPbvXkiaum33BfvM0srLRql8UW3.",
+        "role": "admin",
+        "phone": "",
+        "active": true,
+        "created_at": "2026-10-31T18:21:33+08:00"
+    },
+    {
+        "id": 2,
+        "name": "Sample Staff",
+        "email": "staff@cms.local",
+        "password": "$2y$10$Bm0BPLf4Bu6zhU3TIp0QoOUm0Xpw3tdQmugJRPhm82yOSCY3Rek8q",
+        "role": "staff",
+        "phone": "",
+        "active": true,
+        "created_at": "2026-10-31T18:21:33+08:00"
+    },
+    {
+        "id": 3,
+        "name": "Sample User",
+        "email": "user@cms.local",
+        "password": "$2y$10$yaKzmrd5YsA5.EzWeVSL1.Kcba2JAvsDewm2YzQzdREJsYMD.3mqa",
+        "role": "user",
+        "phone": "",
+        "active": true,
+        "created_at": "2026-10-31T18:21:33+08:00"
+    }
+]
